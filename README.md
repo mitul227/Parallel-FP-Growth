@@ -13,8 +13,11 @@ Eg -
 and so on....
 
 Output - 
+
 Milk - ([Milk,Butter,Bread]:5),([Milk,Butter,Cornflakes]:7),([Milk,Flour,Chicken,Cheese,Bread]:11) 
+
 Bread - ....
+
 and so on...
 
 FP algorithm is used to find frequent itemsets along with their count for every item in this database which is considered to be frequent (this is specified by a minimum support count)
