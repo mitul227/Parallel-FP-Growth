@@ -14,11 +14,15 @@ and so on....
 
 Output - 
 
-Milk - ([Milk,Butter,Bread]:5),([Milk,Butter,Cornflakes]:7),([Milk,Flour,Chicken,Cheese,Bread]:11) 
+Milk - ([Milk,Butter,Bread]:5),([Milk,Butter,Cornflakes]:7),([Milk,Flour,Chicken,Cheese,Bread]:11),...
 
 Bread - ....
 
 and so on...
+
+Above output shows that Milk,Butter,Bread were bought together in 5 transactions , similarly Milk,Flour,Chicken,Cheese,Bread were brought together in 11 transactions
+
+Top K itemsets (itemsets with highest count first ) are shown for each item where K is user defined
 
 FP algorithm is used to find frequent itemsets along with their count for every item in this database which is considered to be frequent (this is specified by a minimum support count)
 
