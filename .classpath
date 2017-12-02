@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/aspectjrt-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/aspectjtools-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/event-publish-3.7.4-shaded.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/guava-r09-jarjar.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-ant.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-core.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-core-sources.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-examples.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-examples-sources.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-test.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-tools.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-0.20.2-cdh3u3-tools-sources.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hadoop-fairscheduler-0.20.2-cdh3u3.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hue-auth-plugin-3.7.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/hue-plugins-1.2.0-cdh3u3.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jackson-core-asl-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jackson-mapper-asl-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jetty-6.1.26.cloudera.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jetty-servlet-tester-6.1.26.cloudera.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jetty-util-6.1.26.cloudera.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jsp-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/mockito-all-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/mrunit-0.9.0-incubating-hadoop1.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/tt-instrumentation-3.7.4.jar"/>
+	<classpathentry kind="lib" path="/home/mitul/Projects/Hadoop material/Libs_Hadoop/xmlenc-0.52.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
